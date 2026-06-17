@@ -85,19 +85,20 @@ Learn. Build. Grow. 🚀
 ## 🛠 Tech Stack  
 
 
-
-<p align="left">
-## 🛠 Tech Stack
+<p align="left"
 
 💻 Frontend: HTML, CSS, JavaScript, React, Next.js
 
+
 ⚙️ Backend: Node.js, Express.js
 
-🗄️ Database: MongoDB, MySQL
 
-☁️ Cloud: AWS
+🗄️ Database:  MySQL
+
 
 🔧 Tools: Git, GitHub, VS Code
+
+
 
   <img src="https://myaccount.google.com/u/0/?utm_source=YouTubeWeb&tab=rk&utm_medium=act&gar=WzgwLCIyMzMzODciXQ&tab=rk&hl=en" width="45"/>
 
@@ -126,12 +127,11 @@ Learn. Build. Grow. 🚀
 ## 🐍 Contribution Snake  
 
 
-
-![Contribution Graph](c:\Users\anart\OneDrive\Desktop\contribution graph11.svg)
-
+![Contribution Graph](c:\Users\anart\OneDrive\Desktop\github-user-contribution (1).svg)
 
 
-![Contribution Graph](./github-user-contribution.svg)
+
+![Contribution Graph](./github-user-contribution%20(1).svg)
 
 ---
 
@@ -149,7 +149,7 @@ Learn. Build. Grow. 🚀
 
   </a>
 
-  
+ 
 </p>
 
 
