@@ -145,7 +145,11 @@ Learn. Build. Grow. 🚀
 <a href="https://github.com/anarthekranti83">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
-  </a>
+ </a>
+<a href="https://instagram.com/aksoul._">
+<img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40"/>
+</a>
+
 
  
 </p>
