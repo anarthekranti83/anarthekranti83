@@ -1,5 +1,9 @@
 # 🌸 Hi, I'm Kranti Anarthe
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20💖&animation=fadeIn&type=waving&color=gradient&height=120"/>
+</p>
+
 ## personal info::
 <p align="center">
 
@@ -149,9 +153,6 @@ Learn. Build. Grow. 🚀
 <a href="https://instagram.com/aksoul._">
 <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40"/>
 </a>
-
-
- 
 </p>
 
 
