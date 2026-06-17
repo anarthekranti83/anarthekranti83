@@ -1,6 +1,6 @@
 # 🌸 Hi, I'm Kranti Anarthe
 
-
+## personal info::
 <p align="center">
 
   <b>🎓 Computer science Student | Web Development Learner 💻 | Aspiring Full-Stack Developer 🚀</b>
@@ -145,7 +145,6 @@ Learn. Build. Grow. 🚀
 
   <a href="https://github.com/anarthekranti83">
 
-    <img src="![alt text](github-logo.png)" width="40"/>
 
   </a>
 
