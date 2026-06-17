@@ -143,9 +143,9 @@ Learn. Build. Grow. 🚀
 
 <p align="left">
 
-  <a href="https://www.youtube.com/@aksoul._83">
+  <a href="https://github.com/anarthekranti83">
 
-    <img src="https://www.flaticon.com/free-icon/youtube_174883" width="40"/>
+    <img src="![alt text](github-logo.png)" width="40"/>
 
   </a>
 
