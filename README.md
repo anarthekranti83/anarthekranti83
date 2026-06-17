@@ -143,7 +143,7 @@ Learn. Build. Grow. 🚀
 <p align="left">
 
 <a href="https://github.com/anarthekranti83">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
   </a>
 
